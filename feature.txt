@@ -1,0 +1,1 @@
+GitHub allows you to resolve merge conflicts remotely and in general, it has a user-friendly interface that makes navigation on GitHub easier.
